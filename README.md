@@ -8,7 +8,7 @@ software is general in scope and is suitable for any user interested in
 using machine-translation software to assist in translating written 
 materials in a collaborative environment.
 
-Please cite us at:
+Please cite us at:  
 A. Laurenzi, M. Brownstein, A.M. Turner, J.A. Kientz and K. Kirchhoff (2013) 
 "A Web-Based Collaborative Translation Management System for Public Health 
 Workers", Proceedings of CHI '13, pp. 511-516.
