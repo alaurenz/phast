@@ -34,7 +34,7 @@ Contents
     [2.1 General information for developers](#21-general-information-for-developers)  
     [2.2 Application structure](#22-application-structure)  
     [2.3 Microsoft Translate API](#microsoft-translate-api)  
-    [2.4 Version control using GitHub](#version-control-using-github)
+    [2.4 Version control using GitHub](#version-control-using-github)  
 3. [Unit Testing](#3-unit-testing)
 
 
