@@ -1,0 +1,80 @@
+/*******************************************************************
+PHAST Software
+Copyright (c)  2013, University of Washington. All rights reserved.
+
+Author: Adrian Laurenzi
+
+PHAST Software
+Copyright (c)  2013, University of Washington. All rights reserved.
+
+User, through installation and use of the Phast software (the 
+"Software"), hereby accepts, a restricted, non-exclusive, 
+non-transferable license to use the Software for academic, research, 
+and internal business purposes only, and not for commercial use. 
+Commercial use of the Software requires a separately executed written 
+license agreement. Please contact phast-project@uw.edu if you are 
+interested in a commercial license.
+
+Permission is granted, free of charge, to any person to use the 
+Software, and to copy, modify, merge, and publish it provided that 
+all copies or modifications of the source code retain the following 
+copyright notice and a copy of this License. 
+
+PHAST Software
+Copyright (c)  2013, University of Washington. All rights reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*******************************************************************/
+
+body{
+    font: 90% "Trebuchet MS", sans-serif;
+    margin: 30px;
+}
+
+.copyright_footer {
+    width:100%; 
+    text-align:center; 
+    padding:8px;
+} 
+
+/*bootstrap tweaks*/
+.progress .bar {
+    overflow:visible;
+    color:#000000;
+    /*background-color: #86C8E8;*/
+} 
+
+.completed {
+    background:#B6FF8F;
+}
+.btn-margin {
+    margin-top:5px;
+}
+div.icon-placeholder {
+    height:24px;
+}
+.large-font {
+    font-size:14px;
+}
+
+.postedit_textarea {
+    width: 620px; /* for CHI figure 520px;  normal: 620px; */
+}
+.comment_textarea {
+    width: 205px; /* for CHI figure 170px;  normal: 205px; */
+}
+
+.required {
+    color:#FF0000;
+    font-size:12px;
+}
+
+.info-margin {
+    margin-bottom:4px;
+}

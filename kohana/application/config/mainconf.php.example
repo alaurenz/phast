@@ -1,0 +1,45 @@
+<?php
+defined('SYSPATH') or die('No direct script access.');
+ 
+return array(
+    // URLs and paths ***MUST EDIT THESE*** 
+    'url' => array(
+        'base' => 'http://localhost/phast',
+        'docs' => 'http://localhost/phast/docs',
+        'images' => 'http://localhost/phast/images',
+        'jquery' => 'http://localhost/phast/jquery-ui-1.9.0',
+        'bootstrap' => 'http://localhost/phast/bootstrap',
+    ),
+    'path' => array(
+        'base' => '~/phast',
+        'docs' => '~/phast/docs',
+        'docs_download' => '~/phast/docs/download',
+        'phpdocx' => '~/phast/phpdocx_community'
+    ),
+    
+    // Microsoft Translate API ***MUST EDIT THESE***
+    'microsoft' => array(
+        'clientID' => '<YOUR clientID HERE>',
+        'clientSecret' => '<YOUR clientSecret HERE>',
+    ),
+
+    // Other configuration settings (no need to edit these)
+    'app_name' => 'PHAST',
+    'date_format' => "M-d-Y",
+
+    /**
+     * Time (in days) after account is created before account can
+     * no longer be activated (account expires)
+     */ 
+    'time_until_activation_expires_days' => 5,
+
+    /**
+     * Time (in seconds) after password is reset before password 
+     * reset request expires.
+     */ 
+    'time_until_reset_pass_expires' => 3600, // 3600 sec = 1 hour
+
+    // Limits established by Microsoft
+    'max_chars_translate_arr' => 10000,
+    'max_items_translate_arr' => 2000,
+);
