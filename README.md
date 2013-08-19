@@ -23,23 +23,21 @@ Adrian Laurenzi
 adrian.laurenzi@gmail.com
 
 
-================================================================================
 Contents
 ================================================================================
 
 1. Installation guide  
     [1.1 Linux](#11-linux)  
     [1.2 Mac OS X](#12-mac-os-x)  
-    [1.3 Windows XP/Vista/7](13-windows-xpvista7)  
+    [1.3 Windows XP/Vista/7](#13-windows-xpvista7)  
 2. Contributing to the project  
     [2.1 General information for developers](#21-general-information-for-developers)  
     [2.2 Application structure](#22-application-structure)  
     [2.3 Microsoft Translate API](#microsoft-translate-api)  
     [2.4 Version control using GitHub](#version-control-using-github)
-3. [Unit Testing](#unit-testing)
+3. [Unit Testing](#3-unit-testing)
 
 
-================================================================================
 1. Installation guide
 ================================================================================
 
